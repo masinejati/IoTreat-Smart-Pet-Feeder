@@ -1,0 +1,13 @@
+# Build and local files
+.vscode/
+.idea/
+build/
+*.hex
+*.elf
+*.bin
+*.log
+.DS_Store
+# Secrets
+.env
+secrets.h
+credentials.h
